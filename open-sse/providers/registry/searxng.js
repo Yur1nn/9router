@@ -15,7 +15,7 @@ export default {
   ],
   noAuth: true,
   searchConfig: {
-    baseUrl: "http://localhost:8888/search",
+    baseUrl: "http://searxng:8888/search",
     method: "GET",
     authType: "none",
     authHeader: "none",
